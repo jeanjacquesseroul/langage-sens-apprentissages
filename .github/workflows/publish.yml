@@ -32,11 +32,16 @@ jobs:
       - name: Render site
         run: quarto render
 
-      - name: Save rendered site in docs
+      - name: Mirror rendered site at repository root
+        run: |
+          cp -a docs/. .
+          touch .nojekyll
+
+      - name: Save rendered site
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f docs
+          git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Build Quarto site"
             git push
