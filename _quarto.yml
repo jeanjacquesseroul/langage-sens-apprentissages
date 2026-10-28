@@ -4,14 +4,14 @@ project:
 
 website:
   title: "Langage, Sens et Apprentissages"
-  description: "Journée d’étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, février 2027."
+  description: "Journée d’étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, Avril 2027."
   navbar:
     left:
       - href: index.qmd
         text: Accueil
       - href: about.qmd
         text: About
-      - href: joMars2026.qmd
+      - href: joAvril2027.qmd
         text: "Journées d'études : 2 Avril 2027"
       - href: programme.qmd
         text: Programme
