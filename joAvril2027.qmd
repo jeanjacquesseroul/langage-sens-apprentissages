@@ -1,40 +1,24 @@
 ---
 title: "Langage, sens et apprentissages"
 subtitle: "Regards croisés entre recherche, clinique et médiations multisensorielles"
-date: "02 avril 2027"
-
+date: "2 avril 2027"
 author:
   - name: Jean-Jacques SEROUL
     affiliation: Université Paris 8 - Laboratoire Paragraphe
-
 lang: fr
-
 lightbox: true
 number-sections: false
-
 format:
   html:
     theme: default
     toc: true
     toc-depth: 3
     number-sections: false
-
-  pdf:
-    documentclass: scrreprt
-    papersize: A4
-    geometry:
-      - top=30mm
-      - left=20mm
-      - right=20mm
-      - heightrounded
-    toc: false
-    number-sections: false
 ---
-
 
 ## Informations pratiques
 
-**Date :** XX février 2027
+**Date :** 2 avril 2027
 
 **Lieu :** Université Paris 8 - Saint-Denis  
 Salle à préciser
@@ -45,11 +29,9 @@ Salle à préciser
 
 **Participation :** modalités d'inscription à venir
 
-
 ### Public visé
 
 Cette journée s'adresse aux chercheurs, enseignants-chercheurs, doctorants, médecins, psychologues, neuropsychologues, orthophonistes, ergothérapeutes, psychomotriciens, professionnels de l'éducation ainsi qu'à toute personne intéressée par les relations entre langage, perception et apprentissages.
-
 
 ## Présentation
 
@@ -65,7 +47,6 @@ Elle s'intéressera notamment aux situations de difficultés d'apprentissage et 
 
 L'objectif est de créer un espace de dialogue entre des disciplines et des pratiques qui abordent parfois les mêmes phénomènes avec des méthodes, des vocabulaires et des finalités différentes.
 
-
 ## Une approche interdisciplinaire
 
 Ancrée en **sciences de l'information et de la communication**, cette journée envisage les médiations multisensorielles comme des dispositifs associant contenus, supports techniques, expériences corporelles et interactions.
@@ -76,11 +57,7 @@ Une place importante sera accordée aux contributions cliniques et aux observati
 
 Il s'agira également de distinguer les **usages éducatifs**, les démarches de **compensation** et les éventuelles **visées thérapeutiques**.
 
-
 ## Problématiques
-
-La journée s'organisera autour de plusieurs questions transversales.
-
 
 ### Langage et apprentissages
 
@@ -89,7 +66,6 @@ Comment s'articulent langage oral, langage écrit et apprentissages ?
 Comment rendre compte de la diversité des profils rencontrés chez les enfants présentant des difficultés d'apprentissage ou des troubles du neurodéveloppement ?
 
 Comment rapprocher les modèles scientifiques des observations réalisées dans les pratiques cliniques et éducatives ?
-
 
 ### Perception, attention et mémoire
 
@@ -101,7 +77,6 @@ Dans quelles conditions une stimulation multisensorielle peut-elle soutenir l'at
 
 À l'inverse, quand risque-t-elle d'augmenter la fatigue ou la charge perceptive ?
 
-
 ### Médiations et dispositifs
 
 Comment concevoir des supports qui tiennent compte des caractéristiques perceptives et cognitives de leurs utilisateurs ?
@@ -109,7 +84,6 @@ Comment concevoir des supports qui tiennent compte des caractéristiques percept
 Quelle place peuvent prendre les dispositifs audiovisuels, sonores, haptiques ou vibrotactiles dans les apprentissages et l'accompagnement ?
 
 Comment associer chercheurs, professionnels et usagers à leur conception ?
-
 
 ### Évaluation, faisabilité et éthique
 
@@ -121,32 +95,98 @@ Comment distinguer une possibilité technique d'un effet perceptif, puis d'un é
 
 Quelles précautions méthodologiques et éthiques sont nécessaires lorsque les recherches concernent des enfants ou des populations présentant des troubles du neurodéveloppement ?
 
-
 ## Les quatre axes de la journée
 
 ```{mermaid}
 %%| label: fig-axes
 %%| fig-cap: "Les quatre axes de la journée d'étude"
-
 flowchart TD
-
     A["LANGAGE, SENS ET APPRENTISSAGES"]
-
     A --> B["AXE 1<br/>Langage et apprentissages"]
     A --> C["AXE 2<br/>Perception multisensorielle,<br/>attention et mémoire"]
     A --> D["AXE 3<br/>Médiations et dispositifs"]
     A --> E["AXE 4<br/>Évaluation, faisabilité<br/>et éthique"]
-
     B --> F["Regards scientifiques<br/>et cliniques"]
-
     C --> G["Audition - Vision - Toucher<br/>Rythme - Synchronisation"]
-
     D --> H["Audiovisuel - Numérique<br/>Haptique - Vibrotactile"]
-
     E --> I["Preuves - Acceptabilité<br/>Tolérance - Éthique"]
-
     style A fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
     style B fill:#e1f5fe,stroke:#01579b
     style C fill:#e1f5fe,stroke:#01579b
     style D fill:#e1f5fe,stroke:#01579b
     style E fill:#e1f5fe,stroke:#01579b
+```
+
+## Axe 1 - Langage et apprentissages : croiser les regards scientifiques et cliniques
+
+Cet axe portera sur les relations entre langage oral, langage écrit et apprentissages, ainsi que sur les difficultés rencontrées dans différents contextes éducatifs et cliniques.
+
+Les contributions pourront aborder les troubles du langage et des apprentissages, la dyslexie et, plus largement, les troubles du neurodéveloppement.
+
+Une attention particulière sera portée à la diversité des profils, aux besoins d'accompagnement et à l'articulation entre observations de terrain et modèles explicatifs.
+
+## Axe 2 - Perception multisensorielle, attention et mémoire
+
+Cet axe examinera la manière dont les informations auditives, visuelles et tactiles s'articulent dans les activités langagières et les apprentissages.
+
+Les échanges pourront porter sur le rythme, la synchronisation temporelle, l'attention et la mémoire.
+
+Les différences individuelles, la fatigue et les risques de surcharge sensorielle seront également discutés.
+
+## Axe 3 - Médiations et dispositifs : conception, usages et expériences
+
+Cet axe sera consacré aux supports audiovisuels, numériques, sonores et haptiques, ainsi qu'aux médiations corporelles et non numériques.
+
+Il s'agira d'interroger leur conception, leur accessibilité, leur appropriation et leur place dans les pratiques éducatives ou cliniques.
+
+Les contributions pourront présenter des dispositifs expérimentaux, des retours d'expérience ou des démarches de conception associant professionnels et usagers.
+
+## Axe 4 - Évaluer et accompagner l'innovation : preuves, faisabilité et éthique
+
+Cet axe abordera les conditions nécessaires pour étudier une nouvelle médiation : choix des indicateurs, pertinence des comparaisons, tolérance, acceptabilité et portée des résultats.
+
+Il permettra également de discuter des enjeux éthiques et réglementaires, notamment lorsque les recherches concernent des enfants ou envisagent une utilisation clinique.
+
+## OraDys 3TT : un projet au cœur du dialogue interdisciplinaire
+
+Le projet doctoral **OraDys 3TT** sera présenté au cours de cette journée comme un cas d'étude permettant de mettre en discussion plusieurs de ces questions.
+
+Il porte sur la **faisabilité théorique, méthodologique et technique d'un protocole de médiation audiovisuelle et vibrotactile du langage oral destiné à des élèves dyslexiques de cycle 3**.
+
+Le projet mobilise notamment les questions de synchronisation temporelle, de perception multisensorielle, de stimulation vibrotactile, d'attention et de mémoire.
+
+Il permettra également d'interroger la manière dont un dispositif expérimental peut être progressivement conçu et évalué auprès d'une population d'enfants, sans anticiper les bénéfices qui restent à démontrer.
+
+## Contributions attendues
+
+Les contributions pourront prendre la forme de présentations de recherches, de questionnements cliniques, de retours d'expérience, de présentations de dispositifs ou de discussions méthodologiques.
+
+Des échanges croisés entre chercheurs et praticiens permettront de dégager des besoins partagés et des pistes de collaboration.
+
+## Objectifs de la journée
+
+Cette journée vise à favoriser les échanges entre communautés scientifiques et professionnelles qui travaillent sur des questions proches mais ne disposent pas toujours d'espaces communs de discussion.
+
+Elle cherchera notamment à :
+
+- rapprocher connaissances scientifiques et observations de terrain ;
+- mieux identifier les besoins auxquels les médiations cherchent à répondre ;
+- discuter les possibilités et les limites des approches multisensorielles ;
+- préciser les conditions méthodologiques nécessaires à leur évaluation ;
+- distinguer faisabilité technique, hypothèse scientifique et bénéfice démontré ;
+- faire émerger de nouvelles collaborations entre chercheurs et praticiens.
+
+## Organisation scientifique
+
+**Jean-Jacques SEROUL**  
+PhD Candidate  
+Université Paris 8  
+Laboratoire Paragraphe
+
+Projet doctoral : **OraDys 3TT**
+
+Direction de recherche : **Pr Imad SAMEH**
+
+## Informations et inscriptions
+
+Les modalités d'inscription, le programme définitif, les horaires ainsi que la liste des intervenants seront publiés prochainement.
