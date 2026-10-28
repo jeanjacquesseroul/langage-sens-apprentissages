@@ -1,63 +1,33 @@
 ---
-lightbox: true
-title: "A propos"
-subtitle: "Projet multidiciplinaires pour la conception d'événements scientifiques innovants"
-date: last-modified
-author:
-  - name: Samuel Szoniecky
-    affiliation: Laboratoire Paragraphe - Université Paris 8
-    orcid: 0000-0002-7643-3342
-
-citeproc: true
-
-number-sections: true
-
-format: 
-  html: 
-    theme: default
-    search: true
+title: "À propos"
+subtitle: "Langage, sens et apprentissages"
+format:
+  html:
     toc: true
-    number-sections: false
-    number-depth: 4
-    comments:
-      hypothesis: true
-
-  pdf: 
-    documentclass: scrreprt
-    papersize: A4    
-    geometry:
-          - top=30mm
-          - left=20mm
-          - heightrounded
-    toc: false
-    number-sections: false
 ---
 
-## À propos de Cyber Sciences Events
+## La journée d'étude
 
-**Cyber Sciences Events** est un projet qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l'ère numérique.
+**Langage, sens et apprentissages - Regards croisés entre recherche, clinique et médiations multisensorielles** est une journée d'étude organisée à l'Université Paris 8 le **2 avril 2027**.
 
-## Mission
+Elle vise à créer un espace de dialogue entre chercheurs, médecins et professionnels de terrain autour des relations entre langage, perception, attention, mémoire et apprentissages.
 
-Notre mission est de concevoir et partager des méthodes, outils et pratiques pour :
+## Positionnement scientifique
 
-- Organiser efficacement des événements scientifiques
-- Intégrer les technologies intellectives dans la gestion d'événements
-- Faciliter la collaboration entre chercheurs et organisateurs
-- Promouvoir l'innovation dans l'organisation d'événements académiques
+La journée est ancrée en **sciences de l'information et de la communication** et ouverte au dialogue avec les neurosciences, la psychologie, les sciences de l'éducation ainsi que les disciplines médicales et paramédicales.
 
-## Technologies
+Une attention particulière est portée aux médiations multisensorielles, à leur conception, à leurs usages et aux conditions nécessaires à leur évaluation scientifique.
 
-Ce projet utilise :
+## OraDys 3TT
 
-- **Quarto** pour la documentation et le site web
-- **GitHub** pour la gestion du code et la collaboration
-- Des outils modernes de gestion d'événements
+Le projet doctoral **OraDys 3TT** de Jean-Jacques SEROUL viendra nourrir les échanges comme cas d'étude.
 
-## Contribuer
+Il porte sur la faisabilité théorique, méthodologique et technique d'un protocole de médiation audiovisuelle et vibrotactile du langage oral destiné à des élèves dyslexiques de cycle 3.
 
-Ce projet est open source et accueille les contributions. Visitez notre [dépôt GitHub](https://github.com/samszo/cyberSciencesEvents) pour en savoir plus.
+## Organisation scientifique
 
-## Contact
+**Jean-Jacques SEROUL**  
+PhD Candidate - Université Paris 8  
+Laboratoire Paragraphe
 
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
+Direction de recherche : **Pr Imad SAMEH**
