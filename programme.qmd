@@ -16,25 +16,25 @@ Le programme définitif et la liste des intervenants seront publiés progressive
 - Présentation de la journée et de ses objectifs
 - Mise en perspective des problématiques communes entre recherche, clinique et médiations
 
-## 10h00 Session 1 - Langage, développement et apprentissages
+## 10h Session 1 - Langage, développement et apprentissages
 
 Cette session sera consacrée aux relations entre développement du langage, apprentissages et troubles du neurodéveloppement.
 
 Les interventions permettront de confronter modèles scientifiques, observations cliniques et besoins rencontrés chez l'enfant.
 
-## 11h00 Pause Café
+## 11h Pause Café
 
 ## 11h30 Session 2 - Rythme, perception et multisensorialité
 
 Cette session abordera les mécanismes temporels du traitement de la parole, la perception auditive, visuelle et tactile, ainsi que leurs relations avec l'attention et la mémoire.
 
-## 14h00 Session 3 - Du toucher au dispositif
+## 14h Session 3 - Du toucher au dispositif
 
 Cette session sera consacrée aux dispositifs haptiques et vibrotactiles, à leur conception et aux mécanismes perceptifs qu'ils mobilisent.
 
 Une attention particulière sera portée au passage entre stimulation physique, perception de l'utilisateur et expérience multisensorielle.
 
-## 15h00 Session 4 - De l'innovation à la preuve
+## 15h Session 4 - De l'innovation à la preuve
 
 Cette session interrogera les conditions nécessaires à l'évaluation de nouvelles approches et de nouveaux dispositifs : choix des indicateurs, comparaisons pertinentes, tolérance, acceptabilité, portée des résultats et enjeux éthiques.
 
