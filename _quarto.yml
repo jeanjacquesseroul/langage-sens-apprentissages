@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Cyber Sciences Events"
-  description: "Piloter des événements scientifiques à l'ère des technologies intellectives"
+  title: "Langage, Sens et Apprentissages"
+  description: "Journée d’étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, février 2027."
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
       - href: about.qmd
         text: About
       - href: joMars2026.qmd
-        text: "Journées d'études : Mars 2026"
+        text: "Journées d'études : 2 Avril 2027"
       - href: programme.qmd
         text: Programme
       - href: contributions.html
@@ -21,9 +21,9 @@ website:
         text: Auteurs
     right:
       - icon: github
-        href: https://github.com/samszo/cyberSciencesEvents
+        href: https://github.com/jeanjacquesseroul/langage-sens-apprentissages
   page-footer:
-    left: "© Cyber Sciences Events"
+    left: "© Langage, Sens et Apprentissages"
     right: "Built with [Quarto](https://quarto.org/)"
 
 format:
