@@ -29,21 +29,21 @@ Salle à préciser
 
 **Participation :** modalités d'inscription à venir
 
-### Public visé
+### Public attendu
 
 Cette journée s'adresse aux chercheurs, enseignants-chercheurs, doctorants, médecins, psychologues, neuropsychologues, orthophonistes, ergothérapeutes, psychomotriciens, professionnels de l'éducation ainsi qu'à toute personne intéressée par les relations entre langage, perception et apprentissages.
 
 ## Présentation
 
-Comment les expériences sensorielles participent-elles au langage et aux apprentissages ?
+Comment les expériences sensorielles concourent elles au langage et aux apprentissages ?
 
-Quelle place accorder aux médiations multisensorielles dans la recherche, les pratiques éducatives et l'accompagnement clinique ?
+Quelle place donner aux médiations multisensorielles dans la recherche, les pratiques éducatives et l'accompagnement clinique ?
 
 Comment concevoir et évaluer ces médiations sans confondre possibilités techniques, hypothèses scientifiques et bénéfices démontrés ?
 
 Cette journée d'étude propose de réunir chercheurs, médecins et professionnels de terrain autour des relations entre **langage, perception, attention, mémoire et apprentissages**.
 
-Elle s'intéressera notamment aux situations de difficultés d'apprentissage et aux troubles du neurodéveloppement, sans se limiter à la dyslexie ni à un dispositif particulier.
+Elle s'intéressera aux situations de difficultés d'apprentissage et aux troubles du neurodéveloppement, sans se limiter à la dyslexie ou à un dispositif particulier.
 
 L'objectif est de créer un espace de dialogue entre des disciplines et des pratiques qui abordent parfois les mêmes phénomènes avec des méthodes, des vocabulaires et des finalités différentes.
 
@@ -51,17 +51,17 @@ L'objectif est de créer un espace de dialogue entre des disciplines et des prat
 
 Ancrée en **sciences de l'information et de la communication**, cette journée envisage les médiations multisensorielles comme des dispositifs associant contenus, supports techniques, expériences corporelles et interactions.
 
-Cette perspective sera mise en dialogue avec les approches des neurosciences, de la psychologie, des sciences de l'éducation ainsi que des disciplines médicales et paramédicales.
+Cette perspective sera mise en dialogue avec les approches des neurosciences, de la psychologie, des sciences de l'éducation, ainsi que des disciplines médicales et paramédicales.
 
-Une place importante sera accordée aux contributions cliniques et aux observations issues du terrain : besoins des enfants, expériences d'accompagnement, difficultés rencontrées dans les apprentissages, limites des outils existants et conditions d'appropriation de nouvelles médiations.
+Une place importante sera donnée aux contributions cliniques et aux observations issues du terrain : besoins des enfants, expériences d'accompagnement, difficultés rencontrées dans les apprentissages, limites des outils existants et conditions d'appropriation de nouvelles médiations.
 
-Il s'agira également de distinguer les **usages éducatifs**, les démarches de **compensation** et les éventuelles **visées thérapeutiques**.
+Il s'agira également de dissocier les **usages éducatifs**, les démarches de **compensation** et les éventuelles **visées thérapeutiques**.
 
 ## Problématiques
 
 ### Langage et apprentissages
 
-Comment s'articulent langage oral et apprentissages ?
+Comment se lient langage oral et apprentissages ?
 
 Comment rendre compte de la diversité des profils rencontrés chez les enfants présentant des difficultés d'apprentissage ou des troubles du neurodéveloppement ?
 
@@ -71,9 +71,9 @@ Comment rapprocher les modèles scientifiques des observations réalisées dans 
 
 Comment les informations auditives, visuelles et tactiles sont-elles combinées lors du traitement du langage ?
 
-Quel rôle jouent le rythme et la synchronisation temporelle ?
+Quel sont les rôles excacts du rythme et de la synchronisation temporelle ?
 
-Dans quelles conditions une stimulation multisensorielle peut-elle soutenir l'attention ou la mémorisation ?
+Dans quelles conditions une stimulation multisensorielle peut-elle conforter l'attention ou la mémorisation ?
 
 À l'inverse, quand risque-t-elle d'augmenter la fatigue ou la charge perceptive ?
 
@@ -93,7 +93,7 @@ Quels indicateurs retenir ?
 
 Comment distinguer une possibilité technique d'un effet perceptif, puis d'un éventuel bénéfice fonctionnel ?
 
-Quelles précautions méthodologiques et éthiques sont nécessaires lorsque les recherches concernent des enfants ou des populations présentant des troubles du neurodéveloppement ?
+Quelles précautions méthodologiques et éthiques sont nécessaires lorsque les recherches concernent des enfants ou des populations souffrant de troubles du neurodéveloppement ?
 
 ## Les quatre axes de la journée
 
@@ -119,7 +119,7 @@ flowchart TD
 
 ## Axe 1 - Langage et apprentissages : croiser les regards scientifiques et cliniques
 
-Cet axe portera sur les relations entre langage oral, langage écrit et apprentissages, ainsi que sur les difficultés rencontrées dans différents contextes éducatifs et cliniques.
+Cet axe traitera des relations entre langage oral, langage écrit et apprentissages, ainsi que sur les difficultés rencontrées dans différents contextes éducatifs et cliniques.
 
 Les contributions pourront aborder les troubles du langage et des apprentissages, la dyslexie et, plus largement, les troubles du neurodéveloppement.
 
@@ -127,9 +127,9 @@ Une attention particulière sera portée à la diversité des profils, aux besoi
 
 ## Axe 2 - Perception multisensorielle, attention et mémoire
 
-Cet axe examinera la manière dont les informations auditives, visuelles et tactiles convergent dans les activités langagières et les apprentissages.
+Cet axe regardera la manière dont les informations auditives, visuelles et tactiles convergent dans les activités langagières et les apprentissages.
 
-Les échanges pourront porter sur le rythme, la synchronisation temporelle, l'attention et la mémoire.
+Les échanges pourront avoir trait au rythme, à la synchronisation temporelle, à l'attention et la mémoire.
 
 Les différences individuelles, la fatigue et les risques de surcharge sensorielle seront également discutés.
 
@@ -139,7 +139,7 @@ Cet axe sera consacré aux supports audiovisuels, numériques, sonores et haptiq
 
 Il s'agira d'interroger leur conception, leur accessibilité, leur appropriation et leur place dans les pratiques éducatives ou cliniques.
 
-Les contributions pourront présenter des dispositifs expérimentaux, des retours d'expérience ou des démarches de conception associant professionnels et usagers.
+Les contributions pourront présenter des dispositifs expérimentaux, des modèles théoriques, des retours d'expérience ou des démarches de conception associant professionnels et usagers.
 
 ## Axe 4 - Évaluer et accompagner l'innovation : preuves, faisabilité et éthique
 
@@ -149,11 +149,11 @@ Il permettra également de discuter des enjeux éthiques et réglementaires, not
 
 ## OraDys 3TT : un projet au cœur du dialogue interdisciplinaire
 
-Le projet doctoral **OraDys 3TT** sera présenté au cours de cette journée comme un cas d'étude théorique permettant de mettre en discussion plusieurs de ces questions.
+Le projet **OraDys 3TT** sera présenté au cours de cette journée comme un cas d'étude théorique permettant de mettre en discussion plusieurs de ces questions.
 
 Il porte sur la **faisabilité théorique, méthodologique et technique d'un protocole de médiation audiovisuelle et vibrotactile du langage oral destiné à des élèves dyslexiques de cycle 3**.
 
-Le projet traite notamment les questions de synchronisation temporelle, de perception multisensorielle, de stimulation vibrotactile, d'attention et de mémoire de travail.
+Le projet traite notamment les questions du recouvrement du langage oral, des stimulations cutanées passives [1-250Hz] via des transducteurs tactiles, de l'attention et de la mémoire de travail.
 
 Il permettra du reste d'interroger la manière dont un dispositif expérimental peut être progressivement conçu et évalué auprès d'une population d'enfants, sans anticiper les bénéfices (qui restent à démontrer).
 
@@ -178,6 +178,7 @@ Elle cherchera notamment à :
 
 ## Organisation scientifique
 
+
 **Jean-Jacques SEROUL**  
 Directeur d'école publique, PhD Candidate  
 Université Paris 8  
@@ -186,6 +187,7 @@ Laboratoire Paragraphe
 Projet doctoral : **OraDys 3TT**
 
 https://oradys3tt.wordpress.com/
+
 
 Direction de recherche : **Pr Imad SAMEH**
 Co-Direction : **Pr Samuel Szoniecky**
