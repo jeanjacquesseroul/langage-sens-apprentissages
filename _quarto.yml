@@ -1,30 +1,32 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - joAvril2027.qmd
+    - programme.qmd
+    - about.qmd
 
 website:
-  title: "Langage, Sens et Apprentissages"
-  description: "Journée d’étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, Avril 2027."
+  title: "Langage, sens et apprentissages"
+  description: "Journée d'étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, 2 avril 2027."
+  site-url: "https://jeanjacquesseroul.github.io/"
   navbar:
     left:
       - href: index.qmd
         text: Accueil
-      - href: about.qmd
-        text: About
       - href: joAvril2027.qmd
-        text: "Journées d'études : 2 Avril 2027"
+        text: "Journée d'étude - 2 avril 2027"
       - href: programme.qmd
         text: Programme
-      - href: contributions.html
-        text: Contributions
-      - href: auteurs.html
-        text: Auteurs
+      - href: about.qmd
+        text: À propos
     right:
       - icon: github
-        href: https://github.com/jeanjacquesseroul/langage-sens-apprentissages
+        href: https://github.com/jeanjacquesseroul/jeanjacquesseroul.github.io
   page-footer:
-    left: "© Langage, Sens et Apprentissages"
-    right: "Built with [Quarto](https://quarto.org/)"
+    left: "© Jean-Jacques SEROUL - Université Paris 8"
+    right: "Site réalisé avec [Quarto](https://quarto.org/)"
 
 format:
   html:
@@ -32,3 +34,4 @@ format:
     css: styles.css
     toc: true
 
+lang: fr
