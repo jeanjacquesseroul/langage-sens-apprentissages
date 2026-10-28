@@ -123,11 +123,11 @@ Cet axe portera sur les relations entre langage oral, langage écrit et apprenti
 
 Les contributions pourront aborder les troubles du langage et des apprentissages, la dyslexie et, plus largement, les troubles du neurodéveloppement.
 
-Une attention particulière sera portée à la diversité des profils, aux besoins d'accompagnement et à l'articulation entre observations de terrain et modèles explicatifs.
+Une attention particulière sera portée à la diversité des profils, aux besoins d'accompagnement et aux liens qui unissent l'observations de terrain et les modèles explicatifs.
 
 ## Axe 2 - Perception multisensorielle, attention et mémoire
 
-Cet axe examinera la manière dont les informations auditives, visuelles et tactiles s'articulent dans les activités langagières et les apprentissages.
+Cet axe examinera la manière dont les informations auditives, visuelles et tactiles convergent dans les activités langagières et les apprentissages.
 
 Les échanges pourront porter sur le rythme, la synchronisation temporelle, l'attention et la mémoire.
 
@@ -149,23 +149,23 @@ Il permettra également de discuter des enjeux éthiques et réglementaires, not
 
 ## OraDys 3TT : un projet au cœur du dialogue interdisciplinaire
 
-Le projet doctoral **OraDys 3TT** sera présenté au cours de cette journée comme un cas d'étude permettant de mettre en discussion plusieurs de ces questions.
+Le projet doctoral **OraDys 3TT** sera présenté au cours de cette journée comme un cas d'étude théorique permettant de mettre en discussion plusieurs de ces questions.
 
 Il porte sur la **faisabilité théorique, méthodologique et technique d'un protocole de médiation audiovisuelle et vibrotactile du langage oral destiné à des élèves dyslexiques de cycle 3**.
 
-Le projet mobilise notamment les questions de synchronisation temporelle, de perception multisensorielle, de stimulation vibrotactile, d'attention et de mémoire.
+Le projet traite notamment les questions de synchronisation temporelle, de perception multisensorielle, de stimulation vibrotactile, d'attention et de mémoire de travail.
 
-Il permettra également d'interroger la manière dont un dispositif expérimental peut être progressivement conçu et évalué auprès d'une population d'enfants, sans anticiper les bénéfices qui restent à démontrer.
+Il permettra du reste d'interroger la manière dont un dispositif expérimental peut être progressivement conçu et évalué auprès d'une population d'enfants, sans anticiper les bénéfices (qui restent à démontrer).
 
 ## Contributions attendues
 
-Les contributions pourront prendre la forme de présentations de recherches, de questionnements cliniques, de retours d'expérience, de présentations de dispositifs ou de discussions méthodologiques.
+Les contributions pourront prendre la forme de présentations de recherches, de questionnements cliniques, de retours d'expérience, de présentations de dispositifs, ou de discussions sur les méthodes.
 
 Des échanges croisés entre chercheurs et praticiens permettront de dégager des besoins partagés et des pistes de collaboration.
 
 ## Objectifs de la journée
 
-Cette journée vise à favoriser les échanges entre communautés scientifiques et professionnelles qui travaillent sur des questions proches mais ne disposent pas toujours d'espaces communs de discussion.
+Cette journée ambitionne de favoriser les échanges entre communautés scientifiques et professionnelles qui travaillent sur des questions proches. Ces derniers ne disposent pas toujours d'espaces communs de discussion.
 
 Elle cherchera notamment à :
 
@@ -173,20 +173,22 @@ Elle cherchera notamment à :
 - mieux identifier les besoins auxquels les médiations cherchent à répondre ;
 - discuter les possibilités et les limites des approches multisensorielles ;
 - préciser les conditions méthodologiques nécessaires à leur évaluation ;
-- distinguer faisabilité technique, hypothèse scientifique et bénéfice démontré ;
+- différentier faisabilité technique, hypothèse scientifique et bénéfice démontré ;
 - faire émerger de nouvelles collaborations entre chercheurs et praticiens.
 
 ## Organisation scientifique
 
 **Jean-Jacques SEROUL**  
+Directeur d'école publique
 PhD Candidate  
 Université Paris 8  
 Laboratoire Paragraphe
 
 Projet doctoral : **OraDys 3TT**
+https://oradys3tt.wordpress.com/
 
 Direction de recherche : **Pr Imad SAMEH**
-
+Co-Direction : **Pr Samuel Szoniecky**
 ## Informations et inscriptions
 
 Les modalités d'inscription, le programme définitif, les horaires ainsi que la liste des intervenants seront publiés prochainement.
