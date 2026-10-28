@@ -10,7 +10,7 @@ project:
 website:
   title: "Langage, sens et apprentissages"
   description: "Journée d'étude sur le langage, les apprentissages et les médiations multisensorielles - Université Paris 8, 2 avril 2027."
-  site-url: "https://jeanjacquesseroul.github.io/"
+  site-url: "https://jeanjacquesseroul.github.io/langage-sens-apprentissages/"
   navbar:
     left:
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
         text: À propos
     right:
       - icon: github
-        href: https://github.com/jeanjacquesseroul/jeanjacquesseroul.github.io
+        href: https://github.com/jeanjacquesseroul/langage-sens-apprentissages
   page-footer:
     left: "© Jean-Jacques SEROUL - Université Paris 8"
     right: "Site réalisé avec [Quarto](https://quarto.org/)"
