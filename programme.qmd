@@ -10,7 +10,7 @@ format:
 Le programme définitif et la liste des intervenants seront publiés progressivement, après confirmation des participations.
 :::
 
-## Accueil et ouverture
+## 9h00 Accueil et ouverture
 
 - Accueil des participants
 - Présentation de la journée et de ses objectifs
@@ -45,6 +45,6 @@ Cette session interrogera les conditions nécessaires à l'évaluation de nouvel
 
 ## Table ronde - Croiser les regards
 
-La journée se terminera par un échange autour d'une question commune :
+16h La journée se terminera par un échange autour d'une question commune :
 
 > **Comment construire des médiations qui répondent à des besoins réels tout en conservant une exigence scientifique dans leur conception et leur évaluation ?**
