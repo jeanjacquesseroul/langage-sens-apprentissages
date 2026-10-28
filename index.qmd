@@ -1,72 +1,44 @@
 ---
-lightbox: true
-title: "Cyber Sciences Events"
-subtitle: "Projet multidiciplinaires pour la conception d'événements scientifiques innovants"
-date: last-modified
+title: "Langage, sens et apprentissages"
+subtitle: "Regards croisés entre recherche, clinique et médiations multisensorielles"
+date: "2 avril 2027"
 author:
-  - name: Samuel Szoniecky
-    affiliation: Laboratoire Paragraphe - Université Paris 8
-    orcid: 0000-0002-7643-3342
-
-citeproc: true
-
-number-sections: true
-
-format: 
-  html: 
-    theme: default
-    search: true
-    toc: true
-    number-sections: false
-    number-depth: 4
-    comments:
-      hypothesis: true
-
-  pdf: 
-    documentclass: scrreprt
-    papersize: A4    
-    geometry:
-          - top=30mm
-          - left=20mm
-          - heightrounded
+  - name: Jean-Jacques SEROUL
+    affiliation: Université Paris 8 - Laboratoire Paragraphe
+format:
+  html:
     toc: false
-    number-sections: false
 ---
 
-## Bienvenue
+# Journée d'étude - Université Paris 8
 
-Bienvenue sur le site **Cyber Sciences Events**
+**2 avril 2027 - Université Paris 8, Saint-Denis**
 
-*projet dédié à la gestion et au pilotage d'événements scientifiques à l'ère des technologies intellectives*
+Comment les expériences sensorielles participent-elles au langage et aux apprentissages ? Quelle place accorder aux médiations multisensorielles dans la recherche, les pratiques éducatives et l'accompagnement clinique ?
 
-## À propos du projet
+Cette journée d'étude réunira chercheurs, médecins et professionnels de terrain autour des relations entre **langage, perception, attention, mémoire et apprentissages**.
 
-Ce projet explore comment les technologies intellectives peuvent transformer l'organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre plusieurs domaines scientifiques :
+Elle s'intéressera notamment aux difficultés d'apprentissage et aux troubles du neurodéveloppement, sans se limiter à la dyslexie ni à un dispositif particulier.
 
--   Les sciences de l'information et de la communication
+## Une journée interdisciplinaire
 
--   Les sciences du numérique
+Ancrée en sciences de l'information et de la communication, la journée mettra en dialogue les neurosciences, la psychologie, les sciences de l'éducation, les disciplines médicales et paramédicales ainsi que les recherches sur les dispositifs numériques, haptiques et multisensoriels.
 
--   Les sciences cognitives
+Quatre axes structureront les échanges :
 
--   Les sciences humaines
+1. **Langage et apprentissages :** regards scientifiques et cliniques.
+2. **Perception multisensorielle, attention et mémoire.**
+3. **Médiations et dispositifs :** conception, usages et expériences.
+4. **Évaluer et accompagner l'innovation :** preuves, faisabilité et éthique.
 
-Les réflexions et les débats menés dans ce projet ont pour vocation de cultiver des synergies entre des champs de recherche fertiles :
+[Consulter la présentation complète de la journée](joAvril2027.qmd)
 
--   Les intelligences collectives
+[Consulter le programme prévisionnel](programme.qmd)
 
--   Les technologies intellectives
+## Organisation scientifique
 
--   L'organisation d'événements
+**Jean-Jacques SEROUL**  
+PhD Candidate - Université Paris 8  
+Laboratoire Paragraphe
 
--   La collaboration scientifique
-
-## Objectifs
-
--   Développer des outils pour l'organisation d'événements scientifiques
--   Explorer l'utilisation des technologies intellectives dans le contexte académique
--   Créer une communauté autour de ces pratiques innovantes
-
-## En savoir plus
-
-Visitez la page [About](about.qmd) pour plus d'informations sur le projet et ses contributeurs.
+Direction de recherche : **Pr Imad SAMEH**
