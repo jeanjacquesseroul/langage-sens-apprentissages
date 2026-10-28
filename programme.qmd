@@ -32,13 +32,6 @@ Cette session sera consacrée aux dispositifs haptiques et vibrotactiles, à leu
 
 Une attention particulière sera portée au passage entre stimulation physique, perception de l'utilisateur et expérience multisensorielle.
 
-## Présentation du projet OraDys 3TT
-
-**Concevoir une médiation audiovisuelle et vibrotactile du langage oral : questions de faisabilité, de synchronisation et d'évaluation**
-
-**Jean-Jacques SEROUL**  
-PhD Candidate - Université Paris 8
-
 ## Session 4 - De l'innovation à la preuve
 
 Cette session interrogera les conditions nécessaires à l'évaluation de nouvelles approches et de nouveaux dispositifs : choix des indicateurs, comparaisons pertinentes, tolérance, acceptabilité, portée des résultats et enjeux éthiques.
