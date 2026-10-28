@@ -1,7 +1,7 @@
 ---
 title: "Langage, sens et apprentissages"
 subtitle: "Regards croisés entre recherche, clinique et médiations multisensorielles"
-date: "XX février 2027"
+date: "02 avril 2027"
 
 author:
   - name: Jean-Jacques SEROUL
