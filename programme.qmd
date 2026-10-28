@@ -28,6 +28,8 @@ Les interventions permettront de confronter modèles scientifiques, observations
 
 Cette session abordera les mécanismes temporels du traitement de la parole, la perception auditive, visuelle et tactile, ainsi que leurs relations avec l'attention et la mémoire.
 
+## 12h30 Pause Déjeuner
+
 ## 14h Session 3 - Du toucher au dispositif
 
 Cette session sera consacrée aux dispositifs haptiques et vibrotactiles, à leur conception et aux mécanismes perceptifs qu'ils mobilisent.
