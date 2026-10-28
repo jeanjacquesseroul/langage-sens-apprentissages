@@ -10,34 +10,34 @@ format:
 Le programme définitif et la liste des intervenants seront publiés progressivement, après confirmation des participations.
 :::
 
-## 9h00 Accueil et ouverture
+## 9h30 Accueil et ouverture
 
 - Accueil des participants
 - Présentation de la journée et de ses objectifs
 - Mise en perspective des problématiques communes entre recherche, clinique et médiations
 
-## Session 1 - Langage, développement et apprentissages
+## 10h00 Session 1 - Langage, développement et apprentissages
 
 Cette session sera consacrée aux relations entre développement du langage, apprentissages et troubles du neurodéveloppement.
 
 Les interventions permettront de confronter modèles scientifiques, observations cliniques et besoins rencontrés chez l'enfant.
 
-## Session 2 - Rythme, perception et multisensorialité
+## 11h00 Pause Café
+
+## 11h30 Session 2 - Rythme, perception et multisensorialité
 
 Cette session abordera les mécanismes temporels du traitement de la parole, la perception auditive, visuelle et tactile, ainsi que leurs relations avec l'attention et la mémoire.
 
-## Session 3 - Du toucher au dispositif
+## 14h00 Session 3 - Du toucher au dispositif
 
 Cette session sera consacrée aux dispositifs haptiques et vibrotactiles, à leur conception et aux mécanismes perceptifs qu'ils mobilisent.
 
 Une attention particulière sera portée au passage entre stimulation physique, perception de l'utilisateur et expérience multisensorielle.
 
-## Session 4 - De l'innovation à la preuve
+## 15h00 Session 4 - De l'innovation à la preuve
 
 Cette session interrogera les conditions nécessaires à l'évaluation de nouvelles approches et de nouveaux dispositifs : choix des indicateurs, comparaisons pertinentes, tolérance, acceptabilité, portée des résultats et enjeux éthiques.
 
-## Table ronde - Croiser les regards
-
-16h La journée se terminera par un échange autour d'une question commune :
+## 16h Echanges autour d'une question commune :
 
 > **Comment construire des médiations qui répondent à des besoins réels tout en conservant une exigence scientifique dans leur conception et leur évaluation ?**
