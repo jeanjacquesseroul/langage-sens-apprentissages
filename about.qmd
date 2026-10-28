@@ -10,7 +10,7 @@ format:
 
 **Langage, sens et apprentissages - Regards croisés entre recherche, clinique et médiations multisensorielles** est une journée d'étude organisée à l'Université Paris 8 le **2 avril 2027**.
 
-Elle vise à créer un espace de dialogue entre chercheurs, médecins et professionnels de terrain autour des relations entre langage, perception, attention, mémoire et apprentissages.
+Elle propose de créer un espace de dialogue entre chercheurs, médecins et professionnels de terrain autour des relations entre langage, perception, attention, mémoire et apprentissages.
 
 ## Positionnement scientifique
 
@@ -20,7 +20,7 @@ Une attention particulière est portée aux médiations multisensorielles, à le
 
 ## OraDys 3TT
 
-Le projet doctoral **OraDys 3TT** de Jean-Jacques SEROUL viendra nourrir les échanges comme cas d'étude.
+Le projet doctoral **OraDys 3TT** de Jean-Jacques SEROUL viendra nourrir les échanges comme cas d'étude théorique.
 
 Il porte sur la faisabilité théorique, méthodologique et technique d'un protocole de médiation audiovisuelle et vibrotactile du langage oral destiné à des élèves dyslexiques de cycle 3.
 
@@ -30,4 +30,4 @@ Il porte sur la faisabilité théorique, méthodologique et technique d'un proto
 PhD Candidate - Université Paris 8  
 Laboratoire Paragraphe
 
-Direction de recherche : **Pr Imad SAMEH**
+Direction de recherche : **Pr Imad SAMEH** & **Pr Samuel Szoniecky**
