@@ -22,15 +22,15 @@ format:
 
 **Lieu :** Université Paris 8 - Saint-Denis  - Salle A3-317
 
-**Responsable scientifique :** Jean-Jacques SEROUL - Université Paris 8
+**Responsable scientifique :** Jean-Jacques SEROUL - Université Paris 8<br>
 **Directeurs scientifiques :** Pr Imad SAMEH & **Pr Samuel Szoniecky
 
 **Format :** Journée d'étude - conférences, présentations et échanges croisés
 
-## **Informations et inscriptions**
+## **Inscriptions**
 jean-jacques.seroul@etud.univ-paris8.fr ; imad.saleh@univ-paris8.fr
 
-### Public attendu
+## Public attendu
 
 Cette journée s'adresse aux chercheurs, enseignants-chercheurs, doctorants, médecins, psychologues, neuropsychologues, orthophonistes, ergothérapeutes, psychomotriciens, professionnels de l'éducation ainsi qu'à toute personne intéressée par les relations entre langage, perception et apprentissages.
 
