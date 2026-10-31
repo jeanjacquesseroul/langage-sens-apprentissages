@@ -10,7 +10,7 @@ format:
     toc: false
 ---
 
-# Journée d'étude - Université Paris 8
+## Journée d'étude - Université Paris 8
 
 ** Vendredi 2 avril 2027 - Université Paris 8, Saint-Denis** - Salle A3-317
 
@@ -20,7 +20,7 @@ Cette journée d'étude réunira chercheurs, médecins et professionnels de terr
 
 Elle s'intéressera notamment aux difficultés d'apprentissage et aux troubles du neurodéveloppement, sans se limiter à la dyslexie ni à un dispositif particulier.
 
-## Une journée interdisciplinaire
+### Une journée interdisciplinaire
 
 Ancrée en sciences de l'information et de la communication, la journée mettra en dialogue les neurosciences, la psychologie, les sciences de l'éducation, les disciplines médicales et paramédicales ainsi que les recherches sur les dispositifs numériques, haptiques et multisensoriels.
 
@@ -35,7 +35,7 @@ Quatre axes structureront les échanges :
 
 [Consulter le programme prévisionnel](programme.qmd)
 
-## Organisation scientifique
+### Organisation scientifique
 
 Responsable scientifique : **Jean-Jacques SEROUL**  
 Directeur d'école publique
@@ -44,6 +44,6 @@ Laboratoire Paragraphe
 
 Directeurs scientifiques : **Pr Imad SAMEH** & **Pr Samuel Szoniecky**
 
-## Informations et inscriptions
+### Informations et inscriptions
 Contact et Inscription : jean-jacques.seroul@etud.univ-paris8.fr ; imad.saleh@univ-paris8.fr
 
