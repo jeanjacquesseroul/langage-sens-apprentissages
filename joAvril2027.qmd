@@ -20,14 +20,14 @@ format:
 
 **Date :** 2 avril 2027
 
-**Lieu :** Université Paris 8 - Saint-Denis  
-Salle à préciser
+**Lieu :** Université Paris 8 - Saint-Denis  - Salle A3-317
 
 **Organisation scientifique :** Jean-Jacques SEROUL - Université Paris 8
 
 **Format :** Journée d'étude - conférences, présentations et échanges croisés
 
-**Participation :** modalités d'inscription à venir
+## **Informations et inscriptions**
+jean-jacques.seroul@etud.univ-paris8.fr ; imad.saleh@univ-paris8.fr
 
 ### Public attendu
 
