@@ -22,7 +22,8 @@ format:
 
 **Lieu :** Université Paris 8 - Saint-Denis  - Salle A3-317
 
-**Organisation scientifique :** Jean-Jacques SEROUL - Université Paris 8
+**Responsable scientifique :** Jean-Jacques SEROUL - Université Paris 8
+**Directeurs scientifiques :** Pr Imad SAMEH & **Pr Samuel Szoniecky
 
 **Format :** Journée d'étude - conférences, présentations et échanges croisés
 
