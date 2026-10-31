@@ -12,7 +12,7 @@ format:
 
 # Journée d'étude - Université Paris 8
 
-** Vendredi 2 avril 2027 - Université Paris 8, Saint-Denis**
+** Vendredi 2 avril 2027 - Université Paris 8, Saint-Denis** - Salle A3-317
 
 Comment les expériences sensorielles concourent-elles au langage oral et aux apprentissages ? Quelle place accorder aux médiations multisensorielles dans la recherche, les pratiques éducatives et l'accompagnement clinique ?
 
